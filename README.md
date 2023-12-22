@@ -2,8 +2,8 @@
 ## Ссылка на Research Doc:
 https://drive.google.com/drive/folders/1o0PawGJvDIvxROh8MbsW27_gF5fWdRFH?ths=true
 
-## Ссылка на Видео команды:
-
+## Ссылка на Видео полёта команды:
+https://youtu.be/-6eVDRmCcTw?feature=shared
 
 ## Ссылка на Презентацию команды:
 
