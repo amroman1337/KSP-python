@@ -1,4 +1,4 @@
-# Введение в авиационную и ракетно-космическую технику, 1 семестр
+# Введение в авиационную и ракетно-космическую технику, 1 семестр 2023
 ## Команда Quasar 
 ## Ссылка на Research Doc:
 https://drive.google.com/drive/folders/1o0PawGJvDIvxROh8MbsW27_gF5fWdRFH?ths=true
