@@ -60,10 +60,10 @@ for i in range(int(time // shag)):  # рассчитываем n сек
 velocity = [((vx_values[i]) ** 2 + vy_values[i] ** 2) ** 0.5 for i in range(len(vx_values))]
 # print([((vx_values[::10][i]) ** 2 + vy_values[::10][i] ** 2) ** 0.5 for i in range(time)])
 # print(y_values[::100])
-# plt.plot(range(0, time), vx_values[::int(DT ** -1)])
+# plt.plot(range(0, time), vx_values[::int(shag ** -1)])
 # plt.xlabel("Время, с")
 # plt.ylabel("Высота, м")
-# plt.plot(range(0, time), y_values[::int(DT ** -1)])
+# plt.plot(range(0, time), y_values[::int(shag ** -1)])
 plt.xlabel("Время, с")
 plt.ylabel("Скорость, м/с")
 plt.plot(range(0, time), velocity[::int(shag ** -1)])
